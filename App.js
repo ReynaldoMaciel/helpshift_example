@@ -24,7 +24,7 @@ const App = () => {
       <StatusBar barStyle="dark-content" />
       <SafeAreaView>
         <ScrollView contentInsetAdjustmentBehavior="automatic">
-          <Text>Engine: Hermes</Text>
+          <Text>Helpshift test</Text>
         </ScrollView>
       </SafeAreaView>
     </>
